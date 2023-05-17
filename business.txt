@@ -1,0 +1,12 @@
+business entities
+
+1.user
+2.administrator
+
+business operations
+
+1.login
+2.booking
+3.payment
+4.cancellation
+

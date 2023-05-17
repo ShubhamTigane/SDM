@@ -1,0 +1,19 @@
+ fuctional requirements for online ticket booking system
+ 
+ for users
+1.registerd users will able to login
+2.new users have to register to book the tickets
+3.users will be able to set/reset password
+reset passwd
+4.users wil be able to choose train/flight
+5.users wil be able to book ticket
+6.users can download ticket
+7.users can check trains/flights
+8.users can check arrival/departure time for journey
+9.users can download ticket
+10.users can raise a complaint
+11.users will be able to repost issue
+12.users will be able to do secure online payment
+
+for administrator
+1.admin will be able to keep of bookings in efficient way
